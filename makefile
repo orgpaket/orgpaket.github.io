@@ -4,6 +4,6 @@ commit:
 	git add .
 	git commit -m "+ update $(shell date)"
 
-deploy:
+deploy: commit
 	git push
 
