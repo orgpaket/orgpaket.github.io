@@ -7,7 +7,15 @@
   </url>
   
   <url>
+    <loc>https://orgpaket.github.io/doc/</loc>
+  </url>
+  
+  <url>
     <loc>https://orgpaket.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://orgpaket.github.io/doc/glossary/archive/</loc>
   </url>
   
   <url>
@@ -19,11 +27,15 @@
   </url>
   
   <url>
-    <loc>https://orgpaket.github.io/doc/ref/deterministic_archive/</loc>
+    <loc>https://orgpaket.github.io/doc/glossary/deterministic_archive/</loc>
   </url>
   
   <url>
-    <loc>https://orgpaket.github.io/doc/</loc>
+    <loc>https://orgpaket.github.io/doc/glossary/deterministic_archive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://orgpaket.github.io/doc/glossary/</loc>
   </url>
   
   <url>
